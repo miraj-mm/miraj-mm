@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miraj</h1>
-<h3 align="center">A CSE undergraduate student</h3>
+<h5 align="center">A CSE undergraduate student From Islamic University of technology</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
